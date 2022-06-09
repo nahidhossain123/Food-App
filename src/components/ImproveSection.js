@@ -12,7 +12,7 @@ const ImproveSection = () => {
   return (
     <div className='section improve-skills'>
          <div className='col image'> 
-           <img src='/img/gallery/img_10.jpg' />
+           <img src='/img/gallery/img_10.jpg' alt="galleryImage" />
         </div>
         <div className='col'>
             <h1 className='title'>Improve Your Culinary Skills</h1>
